@@ -1,4 +1,4 @@
-Hello world!
+Hello world
 
-Change world!
+Change the world
 
